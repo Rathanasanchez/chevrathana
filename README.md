@@ -2,4 +2,4 @@
 
 
 click to visit Our site:
-https://github.com/Rathanasanchez/chevrathana/
+https://rathanasanchez.github.io/chevrathana/
